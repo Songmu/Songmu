@@ -1,7 +1,5 @@
 ![](images/2004-06-05-race.jpg)
 
-<iframe src="https://github.com/sponsors/Songmu/button" title="Sponsor Songmu" height="35" width="107" style="border: 0;"></iframe>
-
 CTO at [Nature Inc](https://en.nature.global/)., start-up from Japan involved in promoting IoT, smart homes and renewable energy.
 
 I am involved in OSS for practical use and hobbies.
