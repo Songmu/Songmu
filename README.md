@@ -1,4 +1,4 @@
-![](images/2004-06-05-race.jpg)
+![](https://raw.githubusercontent.com/Songmu/Songmu/main/images/2004-06-05-race.jpg)
 
 CTO at [Nature Inc](https://en.nature.global/)., start-up from Japan involved in promoting IoT, smart homes and renewable energy.
 
