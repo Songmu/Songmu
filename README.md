@@ -9,4 +9,4 @@ I also often take over the maintenance of many libraries, and the most famous ar
 [![github](https://img.shields.io/github/followers/Songmu?label=Follow%20%40Songmu&style=social)](https://github.com/Songmu)
 [![twitter](https://img.shields.io/twitter/follow/Songmu?style=social)](https://twitter.com/Songmu)
 
-![Songmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songmu&show_icons=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Songmu&layout=compact)
+![Songmu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songmu&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Songmu&layout=compact)
