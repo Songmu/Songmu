@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Songmu/Songmu/main/images/2004-06-05-race.jpg)
 
-CTO at [Nature Inc](https://en.nature.global/)., start-up from Japan promoting IoT, smart homes and renewable energy.
+VP of Engineering at [Nature Inc](https://en.nature.global/)., start-up from Japan promoting IoT, smart homes and renewable energy.
 
 I am involved in OSS for practical use and hobbies.
 I'm familiar with DevOps and is good at Go and Perl as languages mainly for web application development, and hosts over 150 useful libraries on GitHub. The ghch and horenso is especially popular.
